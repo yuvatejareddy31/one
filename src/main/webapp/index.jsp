@@ -17,9 +17,9 @@
     <header>DevOps: Bridging the Gap Between Development & Operations</header>
     
     <div class="slideshow-container">
-        <img class="slides" src="https://miro.medium.com/max/1200/1*x-U0wBPxM3LQcPZ1-1t9Ig.png" alt="DevOps Slide 1">
-        <img class="slides" src="https://www.bairesdev.com/wp-content/uploads/2021/09/DevOps-Best-Practices.jpg" alt="DevOps Slide 2">
-        <img class="slides" src="https://www.manageengine.com/products/service-desk-msp/images/devops-best-practices.jpg" alt="DevOps Slide 3">
+        <img class="slides" src="https://www.slideteam.net/media/catalog/product/cache/1280x720/d/e/devops_powerpoint_presentation_slides_Slide01.jpg" alt="DevOps Slide 1">
+        <img class="slides" src="https://s3.amazonaws.com/images.powershow.com/9346039.pr.jpg" alt="DevOps Slide 2">
+        <img class="slides" src="https://hislide.io/wp-content/uploads/2023/02/DevOps-process-flow-free-template-for-PowerPoint-Google-Slides-and-Keynote.jpeg" alt="DevOps Slide 3">
     </div>
     
     <div class="section">
