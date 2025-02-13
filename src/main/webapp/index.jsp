@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Interior Design</title>
+  <title>Interior Design Studio</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -21,17 +21,17 @@
     <h2>Our Services</h2>
     <div class="service-cards">
       <div class="card">
-        <img src="https://via.placeholder.com/300x200" alt="Residential Design">
+        <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Residential Design">
         <h3>Residential Design</h3>
         <p>We create beautiful and functional living spaces tailored to your needs.</p>
       </div>
       <div class="card">
-        <img src="https://via.placeholder.com/300x200" alt="Commercial Design">
+        <img src="https://images.unsplash.com/photo-1497366858526-0766cadbe8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Commercial Design">
         <h3>Commercial Design</h3>
         <p>Designing workspaces that inspire productivity and creativity.</p>
       </div>
       <div class="card">
-        <img src="https://via.placeholder.com/300x200" alt="Consultation">
+        <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Consultation">
         <h3>Consultation</h3>
         <p>Expert advice to help you make the best design decisions.</p>
       </div>
@@ -42,10 +42,10 @@
   <section class="gallery" id="gallery">
     <h2>Our Work</h2>
     <div class="gallery-images">
-      <img src="https://via.placeholder.com/400x300" alt="Design 1">
-      <img src="https://via.placeholder.com/400x300" alt="Design 2">
-      <img src="https://via.placeholder.com/400x300" alt="Design 3">
-      <img src="https://via.placeholder.com/400x300" alt="Design 4">
+      <img src="https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 1">
+      <img src="https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 2">
+      <img src="https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 3">
+      <img src="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Design 4">
     </div>
   </section>
 
